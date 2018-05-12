@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5023
     wikipedia: http://en.wikipedia.org/wiki/James_Runciman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16911#The-Romance-of-the-Coast
 gutenberg_issued: '2005-10-19'
 gutenberg_type: Text
 identifiers:
