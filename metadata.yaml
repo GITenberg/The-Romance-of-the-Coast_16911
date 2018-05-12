@@ -1,0 +1,27 @@
+_repo: The-Romance-of-the-Coast_16911
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runciman, James
+    birthdate: 1852
+    deathdate: 1891
+    gutenberg_agent_id: '5023'
+    url: http://www.gutenberg.org/2009/agents/5023
+    wikipedia: http://en.wikipedia.org/wiki/James_Runciman
+description: ''
+gutenberg_issued: '2005-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories, English'
+- !lcc 'PR'
+title: The Romance of the Coast
+url: http://www.gutenberg.org/ebooks/16911
